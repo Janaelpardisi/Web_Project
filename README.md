@@ -27,15 +27,11 @@ A modern, elegant, and fully responsive website for a luxury perfume creative ag
 
 ## 🚀 Demo
 
-[Live Demo](#) _(Add your GitHub Pages or deployment link here)_
+_Live demo will be available soon on GitHub Pages_
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+_Screenshots will be added soon_
 
 ## 🛠️ Technologies Used
 
@@ -89,7 +85,7 @@ creative-agency/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/creative-agency.git
+   git clone https://github.com/Janaelpardisi/creative-agency.git
    ```
 
 2. **Navigate to project directory**
@@ -250,10 +246,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Jana Ashraf Elpardisi**
+- GitHub: [@Janaelpardisi](https://github.com/Janaelpardisi)
+- LinkedIn: [Jana Ashraf Elpardisi](https://www.linkedin.com/in/jana-ashraf-elpardisi)
+- Email: janaelpardisi@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -265,9 +261,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, please reach out:
 - Create an issue in this repository
-- Email: your.email@example.com
+- Email: janaelpardisi@gmail.com
+- LinkedIn: [Jana Ashraf Elpardisi](https://www.linkedin.com/in/jana-ashraf-elpardisi)
 
-
+---
 
 ⭐ If you found this project helpful, please consider giving it a star!
 
