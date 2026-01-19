@@ -29,9 +29,6 @@ A modern, elegant, and fully responsive website for a luxury perfume creative ag
 
 _Live demo will be available soon on GitHub Pages_
 
-## 📸 Screenshots
-
-_Screenshots will be added soon_
 
 ## 🛠️ Technologies Used
 
